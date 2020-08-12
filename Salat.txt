@@ -6,3 +6,4 @@ Salat:
 - getr. Tomaten
 - Mais
 - Paprika
+- Salami
