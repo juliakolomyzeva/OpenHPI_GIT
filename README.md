@@ -1,6 +1,19 @@
 # OpenHPI_GIT
 **Create a neu repository locale and at GitHub**
-1. Eine lokale Repository erzeugen
+1. Eine lokale Repository für das entsprechende Verzeichnis erzeugen
+```
+#Check, ob eine GIT-Repository für das Verzeichnis bereits erstellt ist 
+git status
+
+#Get-Repository erstellen
+git init
+
+#Inhalt des Verzeichnis der Git-Repository zufügen
+git add
+
+git commit -m "Initial commit"
+
+```
 2. Eine Repository im GitHub erzeugen
 3. Evtl. alte Git-Zugangsdaten local löschen (wenn man sich vorher zu einem anderen Benutzer im GitHub remotet hat )
 ```
